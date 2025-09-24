@@ -1,4 +1,4 @@
-const { retrieveOdds, retrieveSports, requestCount, apiToken } = require('./test1.js');
+const { retrieveOdds, retrieveSports, requestCount, apiToken } = require('./api.js');
 const { bet, bestBets } = require('./bet.js')
 
 const sports = {
